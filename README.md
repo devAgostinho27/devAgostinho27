@@ -5,7 +5,7 @@
 </h1>
 
 <div align="left">
-  <a href="https://github.com/agostinhomarcia">
+  <a href="https://github.com/devAgostinho27">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=7159c1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
   <a href="https://www.linkedin.com/in/marcia-agostinho-developer/">
@@ -47,8 +47,8 @@
 
  <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agostinhomarcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agostinhomarcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devAgostinho27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devAgostinho27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### 🛠️ Tech Stack
@@ -77,12 +77,12 @@
 ###  📊 Contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostinhomarcia&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=agostinhomarcia&theme=dracula&row=1" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAgostinho27&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=devAgostinho27&theme=dracula&row=1" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/agostinhomarcia/count.svg" alt="Visitor Counter"  />
+  <img src="https://profile-counter.glitch.me/devAgostinho27/count.svg" alt="Visitor Counter"  />
 </div>
 
 <div align="center">
